@@ -2,7 +2,7 @@
 
 A HTTP server built using Go for managing albums.
 
-[Preview](./preview.gif)
+![Preview](./preview.gif)
 
 ## CREATE
 
